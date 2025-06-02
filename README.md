@@ -47,10 +47,10 @@ Gender (if present)
 
 Purchased (target variable – binary classification)
 
-📈 Model Summary
+Model Summary
 Naive Bayes is used due to its simplicity, performance on small datasets, and suitability for probabilistic classification.
 
-📌 Next Steps
+Next Steps
 Try different Naive Bayes variants (e.g., Multinomial, Bernoulli)
 
 Apply cross-validation
